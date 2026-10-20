@@ -19,6 +19,7 @@ Each lab has its own README file containing the instructions and steps required 
 - Follow the instructions carefully, especially when working with AWS resources, Linux permissions, and system administration commands.
 - Avoid committing AWS credentials, access keys, private keys, or other sensitive information to this repository.
 - Clean up AWS resources after completing a lab when instructed to avoid unnecessary charges.
+- The results may different ! always check requirement before submitting .
 
 ## Purpose
 
